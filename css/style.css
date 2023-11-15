@@ -318,3 +318,24 @@ a {
 #mainfooter ul li a {
 	color: #fff;
 }
+
+/* Navbar Internal */
+.navbar-internal {
+	background: #8e2f52;
+	/* background: #8e2f52; */
+	padding-top: 5px;
+}
+
+.d-flex {
+	display: flex;
+	justify-content: flex-end;
+	list-style: none;
+}
+
+.d-flex img {
+	height: 30px;
+}
+
+.d-flex li {
+	padding: 6px;
+}
